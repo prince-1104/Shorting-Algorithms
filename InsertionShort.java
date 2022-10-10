@@ -1,5 +1,5 @@
 import java.util.*;
-public class insertionShort{
+public class InsertionShort{
     public static void call(int arr[]){  //5 4 1 3 2
         for(int i=1; i<arr.length; i++){  //0 1 2 3 4
             int curr = arr[i];
@@ -20,4 +20,3 @@ public class insertionShort{
 
     }
 }
-gfwudyywqwfu77y9t97t7 tb56nn6
